@@ -3,6 +3,5 @@
   "devCommand": "next dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "ignoreCommand": "echo 'Skipping build'",
   "outputDirectory": ".next"
 } 
